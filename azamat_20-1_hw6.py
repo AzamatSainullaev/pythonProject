@@ -25,4 +25,5 @@ class Solution:
             return
         return self.get_num(arrays[0])
 
+
 Solution().get_num(nested_arrays.arrays)
